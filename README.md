@@ -24,10 +24,6 @@
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/XhYtYsQVeRDv5pn4kWzKfpjwcofPpsdRr2ISvxiCw3kQ1WgGZLmQb-c06mCnOJJFyWc=w720-h310-rw"><img src="https://lh3.googleusercontent.com/XhYtYsQVeRDv5pn4kWzKfpjwcofPpsdRr2ISvxiCw3kQ1WgGZLmQb-c06mCnOJJFyWc=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/RubqN3Z.png" style="max-width:100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/VEVi6-rxfL5PUMzKX6Eg_vgEOMi7kdKvCKXddalvOQ4FVERoE5Czk4clIAAezieKTOKa=w720-h310-rw"><img src="https://lh3.googleusercontent.com/VEVi6-rxfL5PUMzKX6Eg_vgEOMi7kdKvCKXddalvOQ4FVERoE5Czk4clIAAezieKTOKa=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/D2Ucb2t.png" style="max-width:100%;"></a></td>
 </tr>
-  <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/VEVi6-rxfL5PUMzKX6Eg_vgEOMi7kdKvCKXddalvOQ4FVERoE5Czk4clIAAezieKTOKa=w720-h310-rw"><img src="https://lh3.googleusercontent.com/VEVi6-rxfL5PUMzKX6Eg_vgEOMi7kdKvCKXddalvOQ4FVERoE5Czk4clIAAezieKTOKa=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/rujH2xz.png" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://lh3.googleusercontent.com/j3IAOqVdC6FXC7Ik---KZP_VKqLCj9VPl2Th0cKahLZzF6kpEVV7Wzj1yLbA2_tfwg=w720-h310-rw"><img src="https://lh3.googleusercontent.com/j3IAOqVdC6FXC7Ik---KZP_VKqLCj9VPl2Th0cKahLZzF6kpEVV7Wzj1yLbA2_tfwg=w720-h310-rw" alt="" data-canonical-src="https://i.imgur.com/gOx5T8H.png" style="max-width:100%;"></a></td>
-</tr>
 </tbody>
 </table>
 
