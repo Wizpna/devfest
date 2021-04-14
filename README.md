@@ -1,7 +1,3 @@
-# names_of_cars
-
-# simple app using the Tensor flow model and Flutter to recognize and provide the name of more than 50 cars based on their different manufacturers.
-
 # devfest
 
 <h4>Official app for DevFest Aba 2019 mobile app built using Flutter.</h4>
